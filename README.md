@@ -5,7 +5,7 @@ Hyperparameters:
 
 Learning Rate: 1e-2
 
-Optimizer: Stochastic Gradiet Descent
+Optimizer: Stochastic Gradient Descent
 
 Number of Epochs: 50
 
